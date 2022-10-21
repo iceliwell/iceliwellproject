@@ -16,3 +16,4 @@ add from login - 22222
 555
 
 666-本地仓库
+666-remote
