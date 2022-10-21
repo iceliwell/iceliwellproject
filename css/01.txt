@@ -1,0 +1,2 @@
+var newStr = "xiaoming"
+console.log(newStr)
